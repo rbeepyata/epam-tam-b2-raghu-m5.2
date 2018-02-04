@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RyanairSuite" duration-ms="30783" started-at="2018-02-04T16:12:19Z" finished-at="2018-02-04T16:12:49Z">
+    <groups>
+    </groups>
+    <test name="FlightsTests" duration-ms="30783" started-at="2018-02-04T16:12:19Z" finished-at="2018-02-04T16:12:49Z">
+      <class name="com.ryanair.tests.FlightsTests">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.ryanair.tests.FlightsTests@61832929]" name="beforeClass" is-config="true" duration-ms="4799" started-at="2018-02-04T21:42:19Z" finished-at="2018-02-04T21:42:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testFlights()[pri:0, instance:com.ryanair.tests.FlightsTests@61832929]" name="testFlights" duration-ms="24481" started-at="2018-02-04T21:42:23Z" finished-at="2018-02-04T21:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFlights -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.ryanair.tests.FlightsTests@61832929]" name="afterTest" is-config="true" duration-ms="1481" started-at="2018-02-04T21:42:48Z" finished-at="2018-02-04T21:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.ryanair.tests.FlightsTests -->
+    </test> <!-- FlightsTests -->
+  </suite> <!-- RyanairSuite -->
+</testng-results>
